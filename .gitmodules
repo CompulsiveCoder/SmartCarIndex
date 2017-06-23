@@ -1,0 +1,3 @@
+[submodule "power/sketches/LowVoltageDetector"]
+	path = power/sketches/LowVoltageDetector
+	url = https://github.com/CompulsiveCoder/LowVoltageDetector.git
