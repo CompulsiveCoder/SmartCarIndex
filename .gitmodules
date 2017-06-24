@@ -1,3 +1,6 @@
 [submodule "power/sketches/LowVoltageDetector"]
 	path = power/sketches/LowVoltageDetector
 	url = https://github.com/CompulsiveCoder/LowVoltageDetector.git
+[submodule "control/MegaCarMotorController"]
+	path = control/MegaCarMotorController
+	url = https://github.com/DIYSmartCar/MegaCarMotorController.git
